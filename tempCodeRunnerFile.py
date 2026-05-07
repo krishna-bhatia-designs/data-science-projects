@@ -1,0 +1,8 @@
+plt.figure(figsize=(10,5))
+# plt.plot(monthly_sale['ORDER_MONTH'].astype(str), monthly_sale['REVENUE'], marker='x')
+# plt.xticks(rotation=45)
+# plt.title('Monthly Revenue Trend')
+# plt.xlabel('Month')
+# plt.ylabel('Revenue')
+# plt.tight_layout()
+# plt.show()
